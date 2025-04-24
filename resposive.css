@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    body {
+        background-color: pink;
+    }
+
+    .header {
+        width: 67%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+}
